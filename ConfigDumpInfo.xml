@@ -3,8 +3,8 @@
 	<ConfigVersions>
 		<Metadata name="Configuration.Конфигурация" id="faa7c726-22a9-4bb2-8007-4ce38d877070" configVersion="37af46045c6cc24c847ec481e5a6977600000000"/>
 		<Metadata name="DataProcessor.EffectiveMobileTestDorokhinAndrey" id="dfc6fa9c-ecb6-48ca-967b-cf597f5c81c2" configVersion="191f0e2681c7014da3e695b2079c6e4b00000000"/>
-		<Metadata name="DataProcessor.EffectiveMobileTestDorokhinAndrey.Form.Форма" id="d96c76c1-f16f-459c-9ea3-fc2439d6bc6a" configVersion="dcc34f3e4ee7604387ef1a05981f1a2200000000"/>
-		<Metadata name="DataProcessor.EffectiveMobileTestDorokhinAndrey.Form.Форма.Form" id="d96c76c1-f16f-459c-9ea3-fc2439d6bc6a.0" configVersion="9ee7e12e8b42e34487176b995d26ca7e00000000"/>
+		<Metadata name="DataProcessor.EffectiveMobileTestDorokhinAndrey.Form.Форма" id="d96c76c1-f16f-459c-9ea3-fc2439d6bc6a" configVersion="d35ea48f8b29da44ae7fc19d18c1702f00000000"/>
+		<Metadata name="DataProcessor.EffectiveMobileTestDorokhinAndrey.Form.Форма.Form" id="d96c76c1-f16f-459c-9ea3-fc2439d6bc6a.0" configVersion="5d63a5e8a7ce9a4f9aa3a8762eb81b8000000000"/>
 		<Metadata name="InformationRegister.ОтветственныеЛица" id="311e6dff-cd85-4a10-982e-0ad4b1089a4a" configVersion="a1701f4422b7b14e8a7300964a7cb00f00000000">
 			<Metadata name="InformationRegister.ОтветственныеЛица.Dimension.ДатаПриема" id="3006ed44-2836-40cd-9fc3-f77ab01f466c"/>
 			<Metadata name="InformationRegister.ОтветственныеЛица.Dimension.ФИО" id="32fffbed-1571-475d-81a7-0de7af4b40e7"/>

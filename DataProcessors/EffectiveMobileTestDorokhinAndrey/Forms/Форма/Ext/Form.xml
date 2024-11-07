@@ -138,6 +138,9 @@
 						</Button>
 						<Table name="ТаблицаЗначений" id="14">
 							<Representation>List</Representation>
+							<ReadOnly>true</ReadOnly>
+							<Width>7</Width>
+							<MaxWidth>3</MaxWidth>
 							<AutoInsertNewRow>true</AutoInsertNewRow>
 							<HorizontalStretch>false</HorizontalStretch>
 							<EnableStartDrag>true</EnableStartDrag>
@@ -163,6 +166,9 @@
 									<Item>ТаблицаЗначений</Item>
 									<Type>ViewStatusRepresentation</Type>
 								</AdditionSource>
+								<Width>2</Width>
+								<AutoMaxWidth>false</AutoMaxWidth>
+								<HorizontalStretch>false</HorizontalStretch>
 								<ContextMenu name="ТаблицаЗначенийСостояниеПросмотраКонтекстноеМеню" id="22"/>
 								<ExtendedTooltip name="ТаблицаЗначенийСостояниеПросмотраРасширеннаяПодсказка" id="23"/>
 							</ViewStatusAddition>
@@ -179,6 +185,18 @@
 									<DataPath>ТаблицаЗначений.Список</DataPath>
 									<EditMode>EnterOnInput</EditMode>
 									<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+									<Format>
+										<v8:item>
+											<v8:lang>ru</v8:lang>
+											<v8:content>ЧН=0</v8:content>
+										</v8:item>
+									</Format>
+									<EditFormat>
+										<v8:item>
+											<v8:lang>ru</v8:lang>
+											<v8:content>ЧН=0</v8:content>
+										</v8:item>
+									</EditFormat>
 									<ContextMenu name="ТаблицаЗначенийСписокКонтекстноеМеню" id="28"/>
 									<ExtendedTooltip name="ТаблицаЗначенийСписокРасширеннаяПодсказка" id="29"/>
 								</InputField>
@@ -203,6 +221,7 @@
 					<ChildItems>
 						<Table name="ТаблицаЗначений2" id="30">
 							<Representation>List</Representation>
+							<ReadOnly>true</ReadOnly>
 							<AutoInsertNewRow>true</AutoInsertNewRow>
 							<EnableStartDrag>true</EnableStartDrag>
 							<EnableDrag>true</EnableDrag>
@@ -303,7 +322,7 @@
 					<Type>
 						<v8:Type>xs:decimal</v8:Type>
 						<v8:NumberQualifiers>
-							<v8:Digits>10</v8:Digits>
+							<v8:Digits>3</v8:Digits>
 							<v8:FractionDigits>0</v8:FractionDigits>
 							<v8:AllowedSign>Any</v8:AllowedSign>
 						</v8:NumberQualifiers>

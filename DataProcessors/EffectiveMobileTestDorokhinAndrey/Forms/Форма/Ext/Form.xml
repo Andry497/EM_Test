@@ -24,7 +24,7 @@
 					<Title>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Задание1</v8:content>
+							<v8:content>Задание №1</v8:content>
 						</v8:item>
 					</Title>
 					<ToolTip>
@@ -47,6 +47,7 @@
 							<ListChoiceMode>true</ListChoiceMode>
 							<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
 							<ChooseType>false</ChooseType>
+							<IncompleteChoiceMode>OnActivate</IncompleteChoiceMode>
 							<MinValue xsi:type="xs:decimal">8</MinValue>
 							<MaxValue xsi:type="xs:decimal">16</MaxValue>
 							<ChoiceList>
@@ -208,7 +209,7 @@
 					<Title>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Задание2</v8:content>
+							<v8:content>Задание №2</v8:content>
 						</v8:item>
 					</Title>
 					<ToolTip>

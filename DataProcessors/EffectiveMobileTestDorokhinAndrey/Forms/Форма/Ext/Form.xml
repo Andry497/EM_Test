@@ -9,7 +9,7 @@
 			<Title>
 				<v8:item>
 					<v8:lang>ru</v8:lang>
-					<v8:content>Группа страницы</v8:content>
+					<v8:content>Задания</v8:content>
 				</v8:item>
 			</Title>
 			<ToolTip>
@@ -147,6 +147,12 @@
 							<EnableStartDrag>true</EnableStartDrag>
 							<EnableDrag>true</EnableDrag>
 							<DataPath>ТаблицаЗначений</DataPath>
+							<Title>
+								<v8:item>
+									<v8:lang>ru</v8:lang>
+									<v8:content>Список значений</v8:content>
+								</v8:item>
+							</Title>
 							<GroupHorizontalAlign>Left</GroupHorizontalAlign>
 							<RowFilter xsi:nil="true"/>
 							<ContextMenu name="ТаблицаЗначенийКонтекстноеМеню" id="15"/>
@@ -227,6 +233,12 @@
 							<EnableStartDrag>true</EnableStartDrag>
 							<EnableDrag>true</EnableDrag>
 							<DataPath>ТаблицаЗначений2</DataPath>
+							<Title>
+								<v8:item>
+									<v8:lang>ru</v8:lang>
+									<v8:content>Ответственные по Платформам</v8:content>
+								</v8:item>
+							</Title>
 							<RowFilter xsi:nil="true"/>
 							<ContextMenu name="ТаблицаЗначений2КонтекстноеМеню" id="31"/>
 							<AutoCommandBar name="ТаблицаЗначений2КоманднаяПанель" id="32">
